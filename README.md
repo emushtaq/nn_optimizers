@@ -1,5 +1,5 @@
-# comparing_cnn_optimizers
-My simple comparison of the Adam, Adadelta and SGD optimizers on a CNN based MNIST classifier.
+# Optimizers - A comparison
+My simple comparison of the Adam, Adadelta and SGD optimizers used in a CNN based MNIST classifier.
 
 Visualizing Accuracy and Loss *:
 
